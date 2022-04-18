@@ -20,7 +20,6 @@
 ## ⏱️ Installation
 
 Open index.html in your browser.
-Press the Start button.
 
 ## 🐛 Bugs
 
